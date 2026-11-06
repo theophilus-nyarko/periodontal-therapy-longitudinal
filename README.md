@@ -47,7 +47,7 @@ Periodontitis destroys the tissues that support the teeth and, if untreated, lea
 - Adding the **plaque index** improved model fit (likelihood ratio test p = 0.027); other periodontal conditions did not.
 - GLS with an unstructured covariance fit better than the LME model.
 
-![Average PPD by treatment over time](figures/mean_ppd_by_treatment.png)
+
 
 ## Limitations
 
