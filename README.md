@@ -3,7 +3,7 @@
 Comparing how periodontal pocket depth (PPD) changes over 14 months under surgical and non-surgical therapy, using generalized least squares (GLS) and linear mixed-effects (LME) models for repeated measures.
 
 **Course project, Applied Mixed Models, Western Michigan University (April 2026)**
-Team: Theophilus Nyarko, Livingstone Kwame Sabah, Noran Novat
+
 
 📄 [Full report (PDF)](report/periodontal_therapy_report.pdf) · 💻 [R code](code/periodontal_analysis.R)
 
